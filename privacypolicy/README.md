@@ -4,7 +4,7 @@
 # Privacy Policy
 
 MOBİL UYGULAMA GİZLİLİK BİLDİRİMİ
-Sürüm, 30 Nisan 2020
+Sürüm, 13 Şubat 2021
  
 Tüm Kullanıcılarımızın gizliliği bizim için çok önemlidir. Bir Uygulama Kullanıcısı olarak Hizmetimizi kullandığınızda, (Uygulama Yayıncısı olarak) Kişisel Verilerinizi işleriz. Bu Gizlilik Bildirimi, Kişisel Verilerinizi nasıl koruduğumuzu ve işleme koyduğumuzu açıklar. Dikkatlice okumanızı öneririz. 
 1. Bu Gizlilik Bildiriminde ne belirtilmiştir?
@@ -108,5 +108,6 @@ Bu Beyan, herhangi bir zamanda güncellenebilir. Taraflar, Gizlilik Bildirimi'ni
 Bu Bildirimde yapılan değişikliklerin herhangi birine bağlı kalmayı kabul etmektesiniz. Değişiklik yürürlüğe girdikten sonra Uygulamayı kullanmaya devam etmeniz, değiştirilen Bildirim'i kabul ettiğinizi gösterecektir. Değiştirilen Bildirimi kabul etmiyorsanız, Uygulamayı kaldırmanız ve onu daha fazla kullanmaktan kaçınmanız gerekir. 
 11. Herhangi bir sorunuz ya da açıklamalarınız varsa ne yapacaksınız?
 Bu Gizlilik Bildirimi ile ilgili herhangi bir sorunuz veya açıklamalarınız varsa, lütfen bir e-posta göndererek bizimle iletişime geçin. 
+İletişim: xmaxla@gmail.com
 
-Bu Gizlilik Bildirimi son olarak 30 Nisan 2020 tarihinde güncellendi.
+Bu Gizlilik Bildirimi son olarak 13.02.2021 tarihinde güncellendi.
